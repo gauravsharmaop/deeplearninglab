@@ -1,0 +1,9 @@
+1. seq length = 10
+2. batch_size = 32
+3. train/test = 90/10
+4. embedding dim = 128
+5. hidden size =256
+6. dropou = 0.3
+7. optimiser = Adam
+8. epochs = 30
+9. test accuracy = 7.36%
